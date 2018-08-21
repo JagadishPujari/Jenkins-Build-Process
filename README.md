@@ -17,3 +17,7 @@ Why Jenkins:
 https://www.youtube.com/watch?v=p7-U1_E_j3w&t=90s
 
 https://www.youtube.com/watch?v=V568cAbz2ls
+
+Integration of git Repo's to Jenkins:
+
+https://www.youtube.com/watch?v=SP8iZWKJNnQ
